@@ -2,6 +2,7 @@
 layout: page
 title: Geeroz's Blog
 tagline: blog about art & technology
+site: Geeroz's Blog -- blog about art & technology
 ---
 {% include JB/setup %}
 
