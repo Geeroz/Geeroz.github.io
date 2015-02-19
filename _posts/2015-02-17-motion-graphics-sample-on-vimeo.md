@@ -4,6 +4,7 @@ title: "Motion Graphics sample on Vimeo"
 description: ""
 category: Graphics
 tags: [motion,graphics,video]
+image: motion_sample.jpg
 thumbnail:
 ---
 {% include JB/setup %}
